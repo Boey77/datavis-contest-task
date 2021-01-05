@@ -51,4 +51,47 @@ body {
   background-color: var(--BACKGROUND);
 }
 
+/* the new team page */
 
+#the-washed-king {
+  margin: 50px 50px;
+  display: flex;
+  text-align: left;
+  padding: 40px 30px;
+}
+
+#the-washed-king-left{
+  margin: 0px;
+}
+
+#the-washed-king-left img {
+  margin: 0px;
+  border-radius: 4px;
+  width: 700px;
+}
+
+#the-washed-king-right{
+  margin: 90px 20px;
+}
+
+#the-washed-king-right p{
+  margin-left: 0;
+  margin-right:50;
+  width: 50%;
+}
+
+#lb-bar-chart{
+  margin-top: 50px;
+  margin-bottom: 0;
+  width: 80%;
+}
+
+#title {
+  font-size: 100px;
+  color: #9D0000;
+}
+
+#performanceText {
+  font-size: 25px;
+
+}
